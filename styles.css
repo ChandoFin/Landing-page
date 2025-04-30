@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+.blue {
+    background-color: #1f2937;
+}
+.header {
+    
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px;
+    color: white;
+
+}
+
+.head_links {
+    display: flex;
+    gap: 10px;
+    
+
+}
+.one {
+    
+    display: flex;
+}
+
+li {
+    list-style: none;
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    
+}
